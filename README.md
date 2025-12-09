@@ -1,4 +1,4 @@
-#🎮 Tic Tac Toe Game (Java Swing)
+##🎮 Tic Tac Toe Game (Java Swing)
 
 A simple and interactive **Tic Tac Toe (X-O)** game built using **Java** and **Swing GUI**.  
 This project demonstrates basic game logic, GUI components, event handling, and clean coding practices.
